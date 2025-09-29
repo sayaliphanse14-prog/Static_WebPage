@@ -1,0 +1,11 @@
+A static web page is a type of website that displays fixed content to every visitor. 
+The content does not change dynamically and is delivered to the user exactly as stored on the server. 
+These pages are usually built using HTML, CSS, and sometimes JavaScript.
+
+Key Features:
+Simple and fast to load
+Same content for all users
+Easy to develop and host
+Best for small websites, portfolios, landing pages, or documentation
+Unlike dynamic web pages, static pages do not use databases or server-side processing. 
+Any change in content must be done by directly editing the HTML/CSS files.
